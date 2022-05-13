@@ -57,6 +57,6 @@ public class HomeWorkApp {
     }
 
   //  int a = value == 82 ? 100500 : 0;
-  //  System.out.println(value <= 0 ? "red" : value <= 100 ? "yellow" : "Green")  тернарный оператор 
+  //  System.out.println(value <= 0 ? "red" : value <= 100 ? "yellow" : "Green")  тернарный оператор
 
 }
